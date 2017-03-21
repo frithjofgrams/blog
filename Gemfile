@@ -48,7 +48,7 @@ group :development do
 end
 group :sqlite do
   # Use sqlite3 as the database for Active Record
-  gem 'sqlite3'
+  # fgem 'sqlite3'
 end
 
 group :heroku do
